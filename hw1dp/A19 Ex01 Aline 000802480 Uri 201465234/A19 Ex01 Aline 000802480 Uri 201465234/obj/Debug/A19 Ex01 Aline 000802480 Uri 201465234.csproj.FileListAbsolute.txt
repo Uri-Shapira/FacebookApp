@@ -1,0 +1,11 @@
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\bin\Debug\A19 Ex01 Aline 000802480 Uri 201465234.exe
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\bin\Debug\A19 Ex01 Aline 000802480 Uri 201465234.pdb
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\bin\Debug\Facebook.dll
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\obj\Debug\A19 Ex01 Aline 000802480 Uri 201465234.csprojAssemblyReference.cache
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\obj\Debug\A19_Ex01_Aline_000802480_Uri_201465234.Properties.Resources.resources
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\obj\Debug\A19 Ex01 Aline 000802480 Uri 201465234.csproj.GenerateResource.cache
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\obj\Debug\A19 Ex01 Aline 000802480 Uri 201465234.csproj.CoreCompileInputs.cache
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\obj\Debug\A19 Ex01 Aline 000802480 Uri 201465234.csproj.CopyComplete
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\obj\Debug\A19 Ex01 Aline 000802480 Uri 201465234.exe
+C:\Users\b\Desktop\hw1dp\A19 Ex01 Aline 000802480 Uri 201465234\A19 Ex01 Aline 000802480 Uri 201465234\obj\Debug\A19 Ex01 Aline 000802480 Uri 201465234.pdb
